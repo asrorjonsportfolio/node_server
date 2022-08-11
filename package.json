@@ -1,0 +1,27 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "run server on nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asrorjonsportfolio/node_server.git"
+  },
+  "keywords": [
+    "server",
+    "node"
+  ],
+  "author": "Asrorjon Mukhtorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asrorjonsportfolio/node_server/issues"
+  },
+  "homepage": "https://github.com/asrorjonsportfolio/node_server#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
